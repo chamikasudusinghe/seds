@@ -1,2 +1,2 @@
 # SEDS Mora
-Official website of SedsMora
+Official website of SEDS Mora
